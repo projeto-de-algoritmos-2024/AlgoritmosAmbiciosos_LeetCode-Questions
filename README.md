@@ -17,9 +17,9 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 | Nome                                                                                                                                                | Nível   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                                      | Média   |
-| [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)                   | Difícil |
-| [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/) | Difícil |
+| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                                                                         | Média   |
+| [135. Candy](https://leetcode.com/problems/candy/description/)                                                                                      | Difícil |
+| [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)                              | Difícil |
 
 ## Vídeo
 
@@ -27,57 +27,54 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 ## Screenshots
 
-### [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+### [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)   
 
 Explicação:
 
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Kth_explicacao.png)<br>
+![]()<br>
 
 Caso 1:
 
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Kth_caso1.png)<br>
+![]()<br>
 
 Caso 2:
 
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Kth_caso2.png)<br>
+![]()<br>
 
-### [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)
+### [135. Candy](https://leetcode.com/problems/candy/description/)     
 
 Explicação:
 
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_explicacao1.png)<br>
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_explicacao2.png)<br>
+![]()<br>
+![]()<br>
 
 Caso 1:
 
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_caso1.png)<br>
+![]()<br>
 
 Caso 2:
 
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_caso2.png)<br>
+![]()<br>
+
+
+### [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)   
+
+Explicação:
+
+![]()<br>
+![]()<br>
+
+Caso 1:
+
+![]()<br>
+
+Caso 2:
+
+![]()<br>
 
 Caso 3:
 
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Recover_caso3.png)<br>
-
-### [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
-
-Explicação:
-
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_explicacao1.png)<br>
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_explicacao2.png)<br>
-
-Caso 1:
-
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_caso1.png)<br>
-
-Caso 2:
-
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_caso2.png)<br>
-
-Caso 3:
-
-![](https://github.com/projeto-de-algoritmos-2024/DividirConquistar_LeetCode-Questions/blob/master/assets/Number_caso3.png)<br>
+![]()<br>
 
 ## Instalação
 
