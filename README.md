@@ -15,11 +15,11 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 ## Questões
 
-| Nome                                                                                                                                                | Nível   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                                                                         | Média   |
-| [135. Candy](https://leetcode.com/problems/candy/description/)                                                                                      | Difícil |
-| [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)                              | Difícil |
+| Nome                                                                                                                   | Nível   |
+| ---------------------------------------------------------------------------------------------------------------------- | ------- |
+| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                                            | Média   |
+| [135. Candy](https://leetcode.com/problems/candy/description/)                                                         | Difícil |
+| [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) | Difícil |
 
 ## Vídeo
 
@@ -27,54 +27,52 @@ Resoluções de questões de níveis variados (Médio e Difícil) contemplando o
 
 ## Screenshots
 
-### [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)   
+### [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 
 Explicação:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/jumpExp.png)<br>
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/jumpCase1.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/jumpCase2.png)<br>
 
-### [135. Candy](https://leetcode.com/problems/candy/description/)     
+### [135. Candy](https://leetcode.com/problems/candy/description/)
 
 Explicação:
 
-![]()<br>
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/candyExp.png)<br>
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/candyCase1.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/candyCase2.png)<br>
 
-
-### [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)   
+### [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
 
 Explicação:
 
-![]()<br>
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/MinimumExp1.png)<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/MinimumExp2.png)<br>
 
 Caso 1:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/MinimumCase1.png)<br>
 
 Caso 2:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/MinimumCase2.png)<br>
 
 Caso 3:
 
-![]()<br>
+![](https://github.com/projeto-de-algoritmos-2024/AlgoritmosAmbiciosos_LeetCode-Questions/blob/master/assets/MinimumCase3.png)<br>
 
 ## Instalação
 
